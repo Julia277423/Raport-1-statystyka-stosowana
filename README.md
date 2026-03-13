@@ -1,1 +1,2 @@
-# Raport-1-statystyka-stosowana
+# raportss1
+Repo na pierwszy raport ze statystyki
